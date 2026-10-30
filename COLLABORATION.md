@@ -15,3 +15,10 @@ Good collaboration starts with clear communication and small, focused changes.
 - Keep commits focused.
 - Use descriptive commit messages.
 - Credit contributors when they work together.
+
+  ## Code Review Guidelines
+
+- Review changes before merging.
+- Check that documentation is clear and accurate.
+- Suggest improvements respectfully.
+- Test changes when necessary.
